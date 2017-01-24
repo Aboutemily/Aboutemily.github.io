@@ -35,7 +35,7 @@ header {
     }
     @media (max-width: 500px) {
       body {
-        background: red;
+        background:rgb(206,181,167);
       }
        h1 {
       font-size: 36px; 
