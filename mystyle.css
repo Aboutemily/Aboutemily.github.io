@@ -3,16 +3,15 @@ background:rgb(206,181,167);
 }
 header {
       text-align: center;
-      background: url('https://lh3.google.com/u/0/d/0B8C0_Zc1OnN2elpUeTZubW1DNDA=w1304-h875-iv1')
+      background: url('https://lh3.google.com/u/0/d/0B8C0_Zc1OnN2elpUeTZubW1DNDA=w1304-h875-iv1');
       background-size: cover;
-      color:rgb(155,180,170);
+      color: white;
     }
     a {
-      color:rgb(155,180,170);
+      color: white;
     }
     h1 {
       font-size: 70px;
-      color:rgb(155,180,170); 
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -36,7 +35,7 @@ header {
     }
     @media (max-width: 500px) {
       body {
-        background:rgb(206,181,167);
+        background:rgb(206,181,167;
       }
        h1 {
       font-size: 36px; 
@@ -46,3 +45,5 @@ header {
       padding: 5px;
       
     }
+
+
