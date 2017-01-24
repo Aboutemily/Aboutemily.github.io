@@ -4,6 +4,7 @@ background:rgb(206,181,167);
 header {
       text-align: center;
       background: url('https://lh3.google.com/u/0/d/0B8C0_Zc1OnN2elpUeTZubW1DNDA=w1304-h875-iv1')
+      background-size: cover;
       color:rgb(155,180,170);
     }
     a {
@@ -11,6 +12,7 @@ header {
     }
     h1 {
       font-size: 70px;
+      color:rgb(155,180,170); 
     }
     img {
       margin: 40px 0px 0px 0px;
