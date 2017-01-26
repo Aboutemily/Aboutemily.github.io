@@ -18,11 +18,9 @@ header {
       color:rgb(155,180,170);
     }
     img { 
-      border: 7px solid white;  
-      border-radius: 20px;
-          display: block; 
-          margin: auto;
-          width: 40%
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white; 
+  border-radius: 20px;
     }
     ul {
       padding: 10px;
