@@ -18,15 +18,18 @@ header {
       color:rgb(155,180,170);
     }
     img {
+      text-align: center; 
       margin: 40px 0px 0px 0px;
       border:7px solid white; 
       border-radius: 20px;
     }
     ul {
+      text-align: center; 
       padding: 10px;
       background: rgba(0,0,0,0.5);
     }
     li {
+      text-align: center; 
       display: inline;
       padding: 0px 10px 0px 10px;
     }
@@ -40,12 +43,15 @@ header {
     }
     @media (max-width: 500px) {
       body {
+        text-align: center; 
         background:rgb(206,181,167;
       }
        h1 {
+      text-align: center; 
       font-size: 36px; 
     } 
     li {
+      text-align: center; 
       display: block; 
       padding: 5px;
       
